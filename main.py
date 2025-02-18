@@ -23,7 +23,7 @@ def main():
     user.list_tasks()
 
     user.check_delayed_tasks()
-    
+
     task1.end_task()
     user.check_completed_tasks()
 

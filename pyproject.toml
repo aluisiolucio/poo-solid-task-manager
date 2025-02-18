@@ -1,7 +1,7 @@
 [project]
 name = "poo-solid-task-manager"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple Task Manager implemented in Python, using OOP (Object-Oriented Programming) Principles and SOLID Principles for study purposes"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []

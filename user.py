@@ -38,6 +38,6 @@ class User:
                 self.__notifier.notify(
                     f"Parabéns! A seguinte tarefa foi concluída: {task.title} ({task.id})"
                 )
-            
+
         if not flag:
             print("Nenhuma tarefa concluída.")
