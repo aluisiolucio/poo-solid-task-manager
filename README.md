@@ -30,7 +30,7 @@ Este é um **Gerenciador de Tarefas** implementado em Python, utilizando **Princ
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/aluisiolucio/poo-solid-task-manager
    cd poo-solid-task-manager
    ```
 
