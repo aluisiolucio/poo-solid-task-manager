@@ -46,6 +46,3 @@ Este é um **Gerenciador de Tarefas** implementado em Python, utilizando **Princ
 │── 📄 main.py        # Código principal do sistema
 │── 📄 README.md      # Documentação do projeto
 ```
----
-
-💡 **Sugestões de melhoria?** Fique à vontade para contribuir! 🚀
