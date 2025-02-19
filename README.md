@@ -1,6 +1,6 @@
-# 📝 Gerenciador de Tarefas (POO + SOLID)
+# 📝 Gerenciador de Tarefas Simples (POO + SOLID)
 
-Este é um **Gerenciador de Tarefas** implementado em Python, utilizando **Princípios de POO (Programação Orientada a Objetos)** e os **Princípios SOLID** para fins de estudo.  
+Este é um **Gerenciador de Tarefas Simples** implementado em Python, utilizando **Princípios de POO (Programação Orientada a Objetos)** e os **Princípios SOLID** para fins de estudo.  
 
 ## 🚀 Funcionalidades
 
